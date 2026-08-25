@@ -4,4 +4,9 @@ matplotlib
 seaborn
 missingno
 ydata-profiling
+scipy
+fuzzywuzzy
+python-Levenshtein
+mlxtend
+scikit-learn
 jupyter
